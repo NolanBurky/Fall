@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NolanBurky/Fall.git"
+  },
+  "author": "NB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NolanBurky/Fall/issues"
+  },
+  "homepage": "https://github.com/NolanBurky/Fall#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
